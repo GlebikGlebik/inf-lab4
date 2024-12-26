@@ -11,7 +11,8 @@
 
 4. Далее я запустил контейнер на основе образа с тегом aafire
 
-![image](https://github.com/user-attachments/assets/e6c5c014-bfe9-4281-a88d-e21b6959ee32)
+![image](https://github.com/user-attachments/assets/d5264f63-e31e-4d5a-bcf2-916cf5794240)
+
 
 5. Получилось!
 
